@@ -21,3 +21,4 @@ Some Mandatory ToDos:
     - So for next May15th your goal should be defined
     - You should define it yourself and then discuss with me for inputs
 3. Please convert your current task to an issue and self assign so that I know what you are working by looking at your github issues.
+4. Meet Professor monthly.
