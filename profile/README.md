@@ -14,11 +14,12 @@
 
 Some Mandatory ToDos:
 
-1. Please update you GitHub wiki meeting notes with every meeting updates.
+1. Try to meet weekly (till your goals are set properly the first 3 months). Make sure it occurs at same time every week.
+2. Please update you GitHub wiki meeting notes with every meeting updates.
     - Before each meeting pre-fill the wiki with what you want to discuss. 
-2. Please add SCRUM goal page in wiki and add your next month goal. 
+3. Please add SCRUM goal page in wiki and add your next month goal. 
     - Every month 15th is your scrum deadline
     - So for next May15th your goal should be defined
     - You should define it yourself and then discuss with me for inputs
-3. Please convert your current task to an issue and self assign so that I know what you are working by looking at your github issues.
-4. Meet Professor monthly.
+4. Please convert your current task to an issue and self assign so that I know what you are working by looking at your github issues.
+5. Meet Professor every 2 months.
